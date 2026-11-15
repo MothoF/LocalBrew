@@ -7,7 +7,7 @@ import SearchBar from './Components/SearchBar';
 function App() {
     return (
         <>
-            <SearchBar DisplayText="Browse your favourite coffee..."/>
+            <SearchBar className="search" DisplayText="Browse your favourite coffee..."/>
         </>
     );
 }

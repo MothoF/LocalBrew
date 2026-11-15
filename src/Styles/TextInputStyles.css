@@ -1,0 +1,15 @@
+:root{
+    --primaryColor: #362C36;
+    --secondaryColor:#EFE3C8;
+    --font:'Rosarivo Regular';
+}
+
+@media(max-width:412px){
+    input.search{
+        border-radius: 2.5vw;
+        width: 60vw;
+        height: 3vh;
+        text-align: center;
+        background-color: var(--primaryColor);
+    }
+}

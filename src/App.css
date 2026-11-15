@@ -1,0 +1,14 @@
+:root{
+    --primaryColor: #362C36;
+    --secondaryColor:#EFE3C8;
+    --font:'Rosarivo Regular';
+}
+
+@media(max-width:412px){
+    body{
+        background-color: var(--primaryColor);
+        margin: auto;
+        width: 90vw;
+        overflow: hidden;
+    }
+}
