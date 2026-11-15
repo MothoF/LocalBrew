@@ -1,0 +1,34 @@
+[
+    {
+        "class":"Cappuccino",
+        "name":"Cinnamon & Cocoa",
+        "price":"R99",
+        "options":["Oat Milk","Soy Milk","Almond Milk"],
+        "description":"",
+        "rating":"4.5"
+    },
+    {
+        "class":"Cappuccino",
+        "name":"Drizzled with Caramel",
+        "price":"R199",
+        "options":["Oat Milk","Soy Milk","Almond Milk"],
+        "description":"",
+        "rating":"4.5"
+    },
+    {
+        "class":"Cappuccino",
+        "name":"Bursting Blueberry",
+        "price":"R249",
+        "options":["Oat Milk","Soy Milk","Almond Milk"],
+        "description":"",
+        "rating":"4.5"
+    },
+    {
+        "class":"Cappuccino",
+        "name":"",
+        "price":"R24",
+        "options":["Oat Milk","Soy Milk","Almond Milk"],
+        "description":"",
+        "rating":"4.5"
+    }
+]
