@@ -8,8 +8,10 @@
     input.search{
         border-radius: 2.5vw;
         width: 60vw;
-        height: 3vh;
+        height: 5vh;
         text-align: center;
         background-color: var(--primaryColor);
+        margin-bottom: auto;
+        margin-top: auto;
     }
 }
